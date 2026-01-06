@@ -211,6 +211,7 @@ body {
 }
 .rightsidebar .myskill .myskillheading span {
   color: #a97142;
+  padding: 10px;
 }
 .rightsidebar h2 {
   font-size: 25px;
@@ -327,7 +328,7 @@ body {
 .skilliner {
   border: 1px solid #a97142;
   height: 185px;
-  border-radius: 48px;
+  border-radius: 75px;
   padding: 42px;
 }
 .skilliner:hover {
