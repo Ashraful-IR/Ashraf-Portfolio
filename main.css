@@ -327,9 +327,9 @@ body {
 }
 .skilliner {
   border: 1px solid #a97142;
-  height: 185px;
+  height: 225px;
   border-radius: 75px;
-  padding: 42px;
+  padding: 50px;
 }
 .skilliner:hover {
   box-shadow: #ff6f61 0px 4px 12px;
